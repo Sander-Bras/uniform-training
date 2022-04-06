@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@contentful/rich-text-html-renderer": "^15.12.0",
     "@uniformdev/canvas": "^15.0.0",
+    "@uniformdev/canvas-contentful": "^15.0.0",
     "@uniformdev/canvas-react": "^15.0.0",
     "@uniformdev/cli": "^15.0.0",
     "@uniformdev/context": "^15.0.0",
     "@uniformdev/context-next": "^15.0.0",
     "@uniformdev/context-react": "^15.0.0",
+    "@uniformdev/optimize-tracker-browser": "^14.2.0",
+    "@uniformdev/optimize-tracker-react": "^14.2.0",
+    "contentful": "^9.1.18",
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0"
